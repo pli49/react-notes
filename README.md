@@ -10,3 +10,8 @@ A window will automatically open on you browser on localhost:3000
 
 The page will reload if you make edits.
 
+To stop the project, press 
+
+### `ctrl C` 
+
+in the console.
